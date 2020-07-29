@@ -1,0 +1,7 @@
+#  using the following code to control the gripper.
+# 0 : close, 
+# 1 : open, 
+# 2 : stop gripper motion.
+int16 gripper_control_code
+---
+bool err
