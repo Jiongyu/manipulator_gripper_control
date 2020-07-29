@@ -4,7 +4,7 @@
 `rosrun gripper_control can_prepare.sh`
 
 
-> 2. gripper control code define：[gripper_control.srv](/src/gripper_control/gripper_control/srv/gripper_control.srv)
+> 2. gripper control code define：[gripper_control.srv](/gripper_control/gripper_control/srv/gripper_control.srv)
 
 > 3. gripper control example(with ros server):
 >> start the gripper control server:
