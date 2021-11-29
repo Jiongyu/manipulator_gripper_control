@@ -1,4 +1,3 @@
 <launch>
-<!-- 启动运动学正解、逆解服务器 -->
 <node  name="gripper_control_server" pkg="gripper_control" type="gripper_control_server.py"/>
 \</launch>
